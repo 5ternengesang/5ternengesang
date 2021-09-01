@@ -1,8 +1,3 @@
 ### Hi there 👋
 
-<!--
-**5ternengesang/5ternengesang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-我是学生
-
-
+学生来着 比较喜欢玩游戏 篮球 暂时没啥人生追求 可能就想apex上个大师
